@@ -1,2 +1,2 @@
 # flask-app
-training of devops
+training of devops skill
